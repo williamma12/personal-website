@@ -4,3 +4,4 @@ rm -rf docs
 hugo
 git add docs
 git commit -a -m "deploy page"
+git push origin main
