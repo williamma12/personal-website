@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<h1>About</h1>
+
+<p>
+I’m William, a Ph.D. student at the <a href=https://www.uchicago.edu>University of Chicago</a>
+a part of <a href=https://data.cs.uchicago.edu>ChiData</a>, 
+where I am advised by <a href=http://people.cs.uchicago.edu/~aelmore/>Aaron Elmore</a>. 
+<a href="about/">(more)</a>
+</p>
+<br/>
+
+<h1>Latest posts</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}
