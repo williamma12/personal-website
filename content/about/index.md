@@ -10,6 +10,10 @@ where I am advised by [Aaron Elmore](http://people.cs.uchicago.edu/~aelmore/).
 I grew up in the San Francisco Bay Area and completed my B.A. at the [University of California, Berkeley](https://berkeley.edu)
 where I was a part of the [RISE Lab](https://rise.cs.berkeley.edu) and worked a variety of amazing projects, such as [Ray](https://github.com/ray-project/ray) and [Modin](https://github.com/modin-project/modin)!
 
+## Education
+
+* (2020 - Now) University of Chicago -- Ph.D. in Computer Science 
+* (2016-2020) University of California, Berkeley -- BA in Computer Science
 
 ## Publications
 
