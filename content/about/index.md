@@ -21,3 +21,7 @@ where I was a part of the [RISE Lab](https://rise.cs.berkeley.edu) and worked a 
 
 * [Modin](https://github.com/modin-project/modin): Parallelize pandas workflows with one-line of code change.
 * [Ray](https://github.com/ray-project/ray): Distributed task-execution engine.
+
+## Teaching
+
+* (Fall 2020) [CMSC21800](http://sanjayk.io/cmsc21800/)
