@@ -13,7 +13,7 @@ where I was a part of the [RISE Lab](https://rise.cs.berkeley.edu) and worked a 
 ## Education
 
 * (2020 - Now) University of Chicago -- Ph.D. in Computer Science 
-* (2016-2020) University of California, Berkeley -- BA in Computer Science
+* (2016 - 2020) University of California, Berkeley -- BA in Computer Science
 
 ## Publications
 
