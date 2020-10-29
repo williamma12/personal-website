@@ -1,5 +1,5 @@
 title = "William Ma"
-baseURL = "https://williamma.me"
+baseURL = "https://williamma.me/"
 theme = "hugo-theme-console"
 nguageCode = "en-us"
 publishDir = "docs"
