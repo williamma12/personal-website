@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Ma</title>
+    <link>https://williamma.me/</link>
+    <description>Recent content on William Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 +0000</lastBuildDate><atom:link href="https://williamma.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://williamma.me/posts/19700101_test/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      
+      <guid>https://williamma.me/posts/19700101_test/</guid>
+      <description>Test</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://williamma.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://williamma.me/about/</guid>
+      <description>About Me I’m William, a Ph.D. student at the University of Chicago a part of ChiData, where I am advised by Aaron Elmore. I grew up in the San Francisco Bay Area and completed my B.A. at the University of California, Berkeley where I was a part of the RISE Lab and worked a variety of amazing projects, such as Ray and Modin!
+Publications   Devin Petersohn, Stephen Macke, Doris Xin, William Ma, Doris Lee, Xiangxi Mo, Joseph E.</description>
+    </item>
+    
+  </channel>
+</rss>
