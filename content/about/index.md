@@ -13,7 +13,8 @@ where I was a part of the [RISE Lab](https://rise.cs.berkeley.edu) and worked a 
 ## Education
 
 * (2020 - Now) University of Chicago -- Ph.D. in Computer Science 
-* (2016 - 2020) University of California, Berkeley -- BA in Computer Science
+* (2020 - 2021) University of Chicago -- M.Sc. in Computer Science 
+* (2016 - 2020) University of California, Berkeley -- B.A. in Computer Science
 
 ## Publications
 
@@ -28,4 +29,5 @@ where I was a part of the [RISE Lab](https://rise.cs.berkeley.edu) and worked a 
 
 ## Teaching
 
-* (Fall 2020) [CMSC21800](http://sanjayk.io/cmsc21800/)
+* (Fall 2020) [CMSC 21800 Data Science For Computer Scientists](http://sanjayk.io/cmsc21800/)
+* (Spring 2021) CMSC 23500 Intro to Databases Systems
